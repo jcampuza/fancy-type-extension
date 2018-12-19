@@ -28,8 +28,6 @@
         </li>
       </ul>
     </main>
-
-    <footer class="footer">Enjoy</footer>
   </div>
 </template>
 
@@ -132,11 +130,6 @@ p {
 
 .main {
   flex-grow: 1;
-  padding: var(--spacing-root);
-}
-
-.footer {
-  background-color: var(--color-gray);
   padding: var(--spacing-root);
 }
 
