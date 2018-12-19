@@ -13,12 +13,7 @@ module.exports = {
       },
       api: "browser",
       usePolyfill: true,
-      autoImportPolyfill: true,
-      componentOptions: {
-        background: {
-          entry: "src/background.js"
-        }
-      }
+      autoImportPolyfill: true
     }
   }
 };
